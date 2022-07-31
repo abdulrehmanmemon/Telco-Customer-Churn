@@ -1,6 +1,7 @@
 # Telco-Customer-Churn
 * Telco Customer Churn
 * Predict behavior to retain customers. You can analyze all relevant customer data and develop focused customer retention programs.
+
 The data set includes information about:
 
 * Customers who left within the last month – the column is called Churn
